@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abani Sikder</h1>
 <h3 align="center">"MERN Stack Developer | Specialized in Docker & CI/CD Pipelines | Building Scalable & Automated Web Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abanisikder&label=Profile%20views&color=0e75b6&style=flat" alt="abanisikder" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=abanisikder&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/v2/D5603AQHk_qQS11IG5w/profile-displayphoto-scale_400_400/B56Z1YNDfOIAAg-/0/1775301311439?e=1778716800&v=beta&t=duRNH5dzwEuEaL35eBV1cs2sRYvoFht4loxbINEepKc)" alt="abanisikder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanisikder" alt="abanisikder" /></a> </p>
 
