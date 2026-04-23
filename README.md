@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5603AQHk_qQS11IG5w/profile-displayphoto-scale_400_400/B56Z1YNDfOIAAg-/0/1775301311439?e=1778716800&v=beta&t=duRNH5dzwEuEaL35eBV1cs2sRYvoFht4loxbINEepKc" 
        alt="Abani Sikder Cover" 
        width="100%" 
-       style="max-height: 100px; object-fit: cover; border-radius: 15px; border: 3px solid #0e75b6;" />
+       style="max-height: 80px; object-fit: cover; object-position: center 25%; border-radius: 10px; border: 2px solid #0e75b6;" />
 </p>
 
 # Hi 👋, I'm Abani Sikder
