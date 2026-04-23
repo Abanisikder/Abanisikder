@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQHk_qQS11IG5w/profile-displayphoto-scale_400_400/B56Z1YNDfOIAAg-/0/1775301311439?e=1778716800&v=beta&t=duRNH5dzwEuEaL35eBV1cs2sRYvoFht4loxbINEepKc" alt="Abani Sikder" width="100vh" height="120" style="border-radius: 10px; border: 2px solid #0e75b6;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHk_qQS11IG5w/profile-displayphoto-scale_400_400/B56Z1YNDfOIAAg-/0/1775301311439?e=1778716800&v=beta&t=duRNH5dzwEuEaL35eBV1cs2sRYvoFht4loxbINEepKc" alt="Abani Sikder" width="1000" height="120" style="border-radius: 10px; border: 2px solid #0e75b6;" />
 </p>
 
 # Hi 👋, I'm Abani Sikder
